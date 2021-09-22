@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: url(Hand_gesture.PNG)
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family: sans-serif;
+  background-color: rgb(253, 193, 208);
+  color: rgb(79, 176, 255);
+}
+
+#top_div{
+  background-color: rgba(3, 44, 19, 0.5);
+}
